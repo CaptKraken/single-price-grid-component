@@ -25,7 +25,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-with-html-scss-css-flexbox-2qoUBBQ6v)
+- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-desktopfirst-html-and-scss-d4q23ybYC)
 - Live Site URL: [Live Demo](https://captkraken.github.io/single-price-grid-component)
 
 ## My process
